@@ -1,3 +1,5 @@
+This file is unmodified outside of this comment. This fork is only meant for ROS 2 humble and Mid-360 so these directions only partially apply.
+
 # Livox ROS Driver 2
 
 Livox ROS Driver 2 is the 2nd-generation driver package used to connect LiDAR products produced by Livox, applicable for ROS (noetic recommended) and ROS2 (foxy or humble recommended).
