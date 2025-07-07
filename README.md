@@ -1,4 +1,4 @@
-This file is unmodified outside of this comment. This fork is only meant for ROS 2 humble and Mid-360 so these directions only partially apply.
+This file is unmodified outside of this comment. This fork is only meant for ROS 2 humble and Mid-360 so these directions only partially apply. Should only need to clone into the workspace src folder and colcon build at the workspace level rather than the original method using the (now deleted) build.sh file and specifying ROS version.
 
 # Livox ROS Driver 2
 
